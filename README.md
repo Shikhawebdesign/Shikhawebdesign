@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Shikhawebdesign
 - 👀 I’m interested in ... Web Development and all things tech
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking for... remote job opportuinities
+- 📫 How to reach me ... Shikhawebdesign@gmail.com
 
 <!---
 Shikhawebdesign/Shikhawebdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
